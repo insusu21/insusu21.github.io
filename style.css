@@ -1,6 +1,6 @@
 body {
 	font-family: 'Noto Sans', sans-serif;
-	background: #caebf2;
+	background: yellowgreen;
 	color: #001f3f;
 }
 
@@ -24,12 +24,12 @@ h1, h2, h3, h4 {
 .profile-picture{
     width: 150px;
     border-radius: 50%;
-    box-shadow: 0 4px 6px 0 rgba(34, 60, 80, .75);
+    box-shadow: 0 4px 6px 0 rgba(43, 116, 172, 0.75);
     transition: all ease-in-out .2s;
 }
 
 .profile-picture:hover {
-    box-shadow: 0 8px 12px 0 rgba(241, 122, 3, .75);
+    box-shadow: 0 8px 12px 0 rgba(62, 224, 184, 0.75);
 }
 
 .about-grid {
@@ -93,7 +93,7 @@ form input[type="submit"] {
 
 .submit-button-wrapper {
 	margin: 20px 0;
-    background-color: aqua;
+    background-color: rgb(112, 77, 211);
     color: black;
 }
 
